@@ -1,2 +1,2 @@
 # 1Marroia25
-./troyano
+./troyano (limpia los archivos basura de tu PC)
