@@ -11,7 +11,10 @@ Lortu duzue bostgarren arazoa konpontzea  BAI
 Lortu duzue seigarren arazoa konpontzea   BAI
 
 
-Zenbat ordu sartu dituzue marroia konpontzeko? ~12h
+Zenbat ordu sartu dituzue marroia konpontzeko? ~18h
 
 Github repositorioa:
 https://github.com/SIProiektua/1Marroia25.git
+
+- Gehienez 5'ko bideo baten esteka marroiaren konponketa aurkezten duena.
+https://upvehueus-my.sharepoint.com/:v:/g/personal/aalvarez186_ikasle_ehu_eus/EThTFLz5yMdKsJo2_OLn2ucBK-ZTqjDtqddTjEad563MOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=axmr1d
